@@ -11,3 +11,6 @@
 [Haskell LLVM Tutorial](https://github.com/sdiehl/kaleidoscope)
 
 [llvm-tutor](https://github.com/banach-space/llvm-tutor)
+
+[A Complete Guide to LLVM for Programming Language Creators](https://mukulrathi.com/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
+
