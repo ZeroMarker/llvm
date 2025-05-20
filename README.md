@@ -16,3 +16,4 @@
 
 [Stanford Compilers CS143](https://www.youtube.com/playlist?list=PLTsf9UeqkRebOYdw4uqSN0ugRShSmHrzH)
 
+[序言 - LLVM IR入门指南](https://evian-zhang.github.io/llvm-ir-tutorial/index.html)
